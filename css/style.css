@@ -1,0 +1,73 @@
+html, body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.bg-dark-green{
+    background-color: #28A745;
+}
+
+.navbar-brand{
+    font-size:x-large;
+}
+
+.card-text-gray{
+    color:#212529;
+    font-weight: 300;
+    font-size: 22.5px;
+}
+
+.list-group-flush{
+    color: #707070;
+}
+
+.list-item{
+    font-weight: 300;
+    font-size: 15px;
+}
+
+.list-price{
+    font-size: 13px;
+}
+
+.card-body-price{
+    display: flex;
+}
+
+.card-text-lead{
+    color:#707070;
+    font-weight: 300;
+    font-size: 17px;
+}
+
+.card-text-green{
+    color:#28A745;
+    font-size: 20px;
+}
+
+.form-group{
+    background-color: #28A745;
+}
+
+.form-group-name{
+    text-align: center;
+    color:#FFFFFF;
+    font-size: 22px;
+}
+
+.form-control-name{
+    color:#707070;
+    font-weight: 300;
+}
+
+.form-control-email{
+    color:#707070;
+    font-weight: 300;
+}
+
+.card-title-final{
+    text-align: center;
+}
+
+.card-text-final{
+    text-align: center;
+}
